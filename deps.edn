@@ -1,8 +1,6 @@
 {
  :deps {
         org.clojure/clojurescript {:mvn/version "1.10.439"}
-        cljsjs/react-dom {:mvn/version "16.2.0-3"}
-        ;; cljsjs/moment {:mvn/version "2.22.2-2"}
         cljsjs/aws-sdk-js {:mvn/version "2.94.0-0"}
         }
  }
